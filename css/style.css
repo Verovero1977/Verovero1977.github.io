@@ -1,0 +1,96 @@
+img.alineadoTextoImagenArriba{
+
+    vertical-align:text-top
+    color black
+
+ h1,h2}
+
+ *{
+    margin:0;
+    padding:0;
+    font-family:'Poppins', sans-serif;
+ }
+ header{
+    height: 50px;
+ }section#hero,h1,h2{
+    background-color: rgb(211, 211, 211);
+    font-size: 2rem;
+    font-family:'Poppins', sans-serif;
+padding: 2px;
+ }
+body{
+    background-color:rgb(247, 239, 239);
+box-sizing: border-box;
+margin: 10px;
+padding:9px 14px 9px 14px;
+font-family:'Poppins', sans-serif;
+
+
+
+
+}
+nav ul li a{
+    color:black;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    width: 90%;
+   
+
+
+nav ul li  {
+    display:inline-block
+    background color rgb(233, 233, 195)
+    cursor:pointer;
+}
+color 
+white
+padding: 30px 30px;
+text-decoration: none
+font-size:13px
+}
+nav ul li a:hover{
+    color:lightgray
+}
+
+nav ul { background-color: rgb(106, 106, 133);
+    padding:16px;
+    display:flex;
+    justify-content:space-around;
+    position:fixed;
+    top:0;
+    width: 100%;
+    list-style: none;
+}
+
+.icon-phone:before {
+    content: "\e945
+    font-style: normal;
+    padding: 2px;
+    color:rgb(13, 209, 101)
+  }
+  .icon-envelop:before {
+    content: "\e945";
+    font-size: 34px;
+    padding: 2px;
+    color:rgb(141, 137, 190)
+
+  }
+  
+  .icon-contrast:before {
+    content: "\e9d5";
+    font-size: 2rem;
+  }
+ 
+.oscuro{
+    background-color: #252525;
+    color:#f2f2f2
+}
+
+#subseccion1 { top: 100%; left: 0px;  
+    background-color: #8883a0; font:normal 0.8em arial;  
+    padding: 0.2em 0.5em ;
+    display: none;
+ }	
